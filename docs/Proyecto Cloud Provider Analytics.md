@@ -216,5 +216,3 @@ El zip incluye la carpeta `datalake/landing/` con los siguientes archivos:
 * Evaluación
 
 ---
-
-¿Querés que te lo prepare ahora en un formato `.md` descargable (por ejemplo, con encabezados jerárquicos y tablas en formato GitHub-friendly)?
